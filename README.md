@@ -1,0 +1,1 @@
+A kafka application, one producer and multiple consumers with same groupId in spring boot:
