@@ -7,6 +7,7 @@ Programs:
 * KafkaOrderConsumerServiceImpl.java
 * KafkaOrderProducerService.java
 * KafkaOrderProducerServiceImpl.java
+* CommonUtil.java
 Notes:
 * In one producer multiple consumers with same groupId scenario, any one of the consumer will listen the message.
 Output:
